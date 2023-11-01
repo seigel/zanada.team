@@ -21,7 +21,7 @@
 title: Team Zanada
 email: info@zanada.team
 description: >- # this means to ignore newlines until "baseurl:"
-  Formula 1 in schools team.
+  Canadian Formula 1 in schools team.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://zanada.team" # the base hostname & protocol for your site, e.g. http://example.com
 instagram: https://www.instagram.com/teamzanada/
